@@ -1,7 +1,8 @@
 # MGA
 The code of the submited paper 'Medical generalist agent through language-guided knowledge transformation' (MGA)
-
-!<img src="git.png" width="800" alt="抖音小程序"/>
+<div align=center>
+<img src="git.png" width="800" alt="抖音小程序"/>
+</div>
 
 The base architecture. MGA adapts CLIP as baseline and innovatively control the representation of the output by text-guided knowledge transformation
 
